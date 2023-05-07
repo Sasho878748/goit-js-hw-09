@@ -1,7 +1,6 @@
 const startBtn = document.getElementById('startBtn');
 const stopBtn = document.getElementById('stopBtn');
 
-// console.log(startBtn);
 const body = document.body;
 
 let intervalId = null;
